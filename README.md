@@ -110,9 +110,8 @@
 
 <br/>  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uznu5g4f5xaeusdibcs7kapnu4&cover_image=false&theme=default&bar_color=ffcd42&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uznu5g4f5xaeusdibcs7kapnu4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08DprFlcwlc5zny9ErPkHG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>Border="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
 
 <br/>  
 
