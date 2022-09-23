@@ -6,7 +6,7 @@
 ## <div align="center">Hi Guys! I'm Bekir 👤 I love to write code 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Java Bootcamp](https://github.com/bekirglr/JavaBootcamp2022)  
+- 🔭 I’m currently working on [JAVA](https://github.com/bekirglr/JavaBootcamp2022)  
   
 
 - 🌱 I’m currently learning Java and React  
