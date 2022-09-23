@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hi Guys! I'm Bekir 👤. I love to write code 👨‍💻.</div>  
+## <div align="center">Hi Guys! I'm Bekir 👤 I love to write code 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Java Bootcamp](https://github.com/bekirglr/JavaBootcamp2022)  
