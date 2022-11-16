@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://github.com/bekirglr">
-  <img src="https://i.gifer.com/origin/ec/ece24da41372e155a576707cf1492f63.gif">
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="700" height="200">
   </a>
 </h1>
 
@@ -48,10 +48,10 @@
 
 <div align="center">
   <a href="https://github.com/bekirglr">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bekirglr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bekirglr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirglr&layout=compact&langs_count=7&theme=gruvbox" />
   </a>
 </div>
 <div align="center" width="100">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekirglr&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
+  <img align="center "src="https://github-profile-trophy.vercel.app/?username=bekirglr&column=8&theme=gruvbox&no-frame=true&margin-w=3&margin-h=5"/>
 </div>
