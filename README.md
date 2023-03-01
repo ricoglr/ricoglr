@@ -49,7 +49,7 @@
 <div align="center">
   <a href="https://github.com/bekirglr">
          <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bekirglr&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirglr&layout=compact&langs_count=7&theme=gruvbox" />
+  ![Bekir's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekirglr)
   </a>
 </div>
 <div align="center" width="100">
