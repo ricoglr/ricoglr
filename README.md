@@ -1,1 +1,1 @@
-<img src="https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif" alt="mobile developer"/>
+<img src="https://media.licdn.com/dms/image/D4E12AQG1ABO6PcVjQg/article-cover_image-shrink_600_2000/0/1659411941942?e=2147483647&v=beta&t=BThCo37QAzASQrjPs8KY5SvwKcM5KLacD_16hPQEP9g" alt="mobile developer"/>
