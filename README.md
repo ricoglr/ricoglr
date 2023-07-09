@@ -1,1 +1,1 @@
-<img src="https://saigontechnology.com/assets/media/Blog/typical-process-for-a-successful-mobile-development.jpeg" alt="mobile developer" height="300" width="100%"/>
+<img src="https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif" alt="mobile developer"/>
