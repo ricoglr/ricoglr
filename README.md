@@ -1,1 +1,1 @@
-<img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="mobile developer" height="300" width="100%"/>
+<img src="https://saigontechnology.com/assets/media/Blog/typical-process-for-a-successful-mobile-development.jpeg" alt="mobile developer" height="300" width="100%"/>
