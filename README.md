@@ -1,1 +1,1 @@
-![alt text](https://www.lpi.org/wp-content/uploads/2023/06/LPI-CODE_WDE.png)
+![mobile developer](https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg)
