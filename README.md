@@ -17,4 +17,14 @@
 
 <br></br>
 
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+  <div align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=veritical&theme=dark&border=true" alt="quotes card">
+    </a>
+  </div>
+</details>
+
 ![WelcomePage](assets/footer.png)
