@@ -9,10 +9,12 @@
 
 
 <!-- <span style="font-family: 'Fira Code', monospace; color: #00DB01FF;"><strong>Profile Viewers</strong></span> -->
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&duration=7000&pause=9999999&color=00DB01&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Profile+Viewers" alt="Typing SVG" /></a>
-<img align="center" src="https://profile-counter.glitch.me/{ricoglr}/count.svg"/>
+  <br><img src="https://profile-counter.glitch.me/{ricoglr}/count.svg"/>
 </div>
+
 <br></br>
 
 ![WelcomePage](assets/footer.png)
