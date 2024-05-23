@@ -33,8 +33,10 @@
 
 <div align="center">
     <a href="https://github.com/ricoglr/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=ricoglr&show_icons=true&theme=dark#gh-dark-mode-only" alt="Rico's GitHub stats-Dark">
+        <img src="https://github-readme-stats.vercel.app/api?username=ricoglr&show_icons=true&theme=dark" alt="Rico's GitHub stats-Dark">
     </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoglr&layout=compact&theme=dark#gh-dark-mode-onl&" alt="Top Langs">
 </div>
 
 
@@ -42,6 +44,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DB01&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+your+visit!" alt="Typing SVG" />
   </a>
+  
 </div>
 
 ![WelcomePage](assets/footer.png)
